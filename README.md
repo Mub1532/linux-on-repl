@@ -5,6 +5,8 @@ To use. install an iso in /resources then go in main.sh and change arch.iso to u
 # To use UEFI bios:
 in main.sh add -bios bios64.bin to the line where it says qemu-system etc
 
+# To use VNC
+https://docs.replit.com/hosting/streaming-native-graphics-vnc
 
 # Default settings
 

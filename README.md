@@ -8,7 +8,7 @@ in main.sh add -bios bios64.bin to the line where it says qemu-system etc
 
 # Default settings
 
-RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan)
+RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan, so change it so its lower if you have normal repl)
 
 # Notes:
 

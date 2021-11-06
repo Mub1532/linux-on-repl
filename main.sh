@@ -11,5 +11,5 @@ cd resources
 echo "Starting system..."
 
 qemu-img create -f qcow2 img.qcow 5G
-qemu-system-x86_64 -hda img.qcow -boot d -m 10G -boot a -cdrom arch.iso 
+qemu-system-x86_64 -hda img.qcow -boot d -m 4G -boot a -cdrom arch.iso 
 #change to ur iso

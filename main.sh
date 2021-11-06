@@ -10,7 +10,7 @@ LD_LIBRARY_PATH=$LD_LIBRARY_PATH:`pwd`/libraries
 cd resources
 echo "System is staring..."
 
-qemu-img create -f qcow2 img.qcow 5G
+qemu-system-x86_64 -boot d -m 4G -boot a -cdrom <Your ISO file here>
 
-qemu-system-x86_64 -hda img.qcow -boot d -m 4G -boot a -cdrom arch.iso 
 #change arch.iso to ur iso
+# add -bios bios64.bin as an option to use UEFI

@@ -2,7 +2,8 @@
 
 To use. install an iso in /resources then go in main.sh and change arch.iso to urs
 
-# To use UEFI bios, in main.sh add -bios bios64.bin to the line where it says qemu-system etc
+# To use UEFI bios:
+in main.sh add -bios bios64.bin to the line where it says qemu-system etc
 
 
 # Default settings

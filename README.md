@@ -18,3 +18,6 @@ RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan, so change it so
 - If you do not have hacker plan/boosted repl, you may need to lower the storage from 5GB to >1GB#
 - Best way to install the iso, using wget in command line, instead of dragging and dropping into repl.it
 - If the iso doesn't download, use a distro with a smaller iso file, (for me the max that worked was an iso that was 800mb) 
+
+
+If you get : qemu-system-x86_64: warning: TCG doesn't support requested feature: CPUID.01H:ECX.vmx [bit 5], dont worry about this, it just appears, nothing happens to system

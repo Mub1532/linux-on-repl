@@ -8,7 +8,7 @@ fi
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:`pwd`/libraries
 
 cd resources
-echo "System is staring..."
+echo "System is starting..."
 
 qemu-system-x86_64 -boot d -m 4G -boot a -cdrom <Your ISO file here>
 

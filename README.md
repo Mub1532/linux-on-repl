@@ -33,6 +33,9 @@ https://en.wikipedia.org/wiki/Light-weight_Linux_distribution -> sort by image s
 - Lubuntu
 - Bodhi linux
 
+# Screenshot of me using a distro with VNC Viewer enabled
+![Screenshot](https://raw.githubusercontent.com/Mub1532/linux-on-repl/main/unknown.png)
+
 So with this you can have a linux/GNU with a GUI if you want, with 24/7 capability either with the hacker plan or a pinger such as uptimerobot
 
 If you get : qemu-system-x86_64: warning: TCG doesn't support requested feature: CPUID.01H:ECX.vmx [bit 5], dont worry about this, it just appears, nothing happens to system.

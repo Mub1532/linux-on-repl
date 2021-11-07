@@ -20,7 +20,7 @@ RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan, so change it so
 - Best way to install the iso, using wget in command line, instead of dragging and dropping into repl.it
 - If the iso doesn't download, use a distro with a smaller iso file, (for me the max that worked was an iso that was 800mb) 
 
-# Some small linux isos:
+# Some small linux isos/ Ones I have tried:
 https://en.wikipedia.org/wiki/Light-weight_Linux_distribution -> sort by image size low-high
 
 - Some Systems I have tried:

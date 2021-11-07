@@ -20,6 +20,10 @@ RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan, so change it so
 - Best way to install the iso, using wget in command line, instead of dragging and dropping into repl.it
 - If the iso doesn't download, use a distro with a smaller iso file, (for me the max that worked was an iso that was 800mb) 
 
+# Some small linux isos:
+https://en.wikipedia.org/wiki/Light-weight_Linux_distribution -> sort by image size low-high
+
+So with this you can have a linux/GNU with a GUI if you want, with 24/7 capability either with the hacker plan or a pinger such as uptimerobot
 
 If you get : qemu-system-x86_64: warning: TCG doesn't support requested feature: CPUID.01H:ECX.vmx [bit 5], dont worry about this, it just appears, nothing happens to system.
 You can also use a windows iso on this, for example windows 95 or XP

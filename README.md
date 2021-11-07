@@ -1,6 +1,6 @@
 # Linux template installer in repl it
 
-To use: Clone repo then install an iso in /resources then go in main.sh and change <Your ISO here> to ur iso file.
+To use: Clone repo then install an iso in /resources then go in main.sh and change `<Your ISO here>` to ur iso file.
 
 # To use UEFI bios:
 in main.sh add -bios bios64.bin to the line where it says qemu-system etc

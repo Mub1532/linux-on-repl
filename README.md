@@ -23,6 +23,16 @@ RAM - 4GB, storage - 5GB (Used on boosted repl with hacker plan, so change it so
 # Some small linux isos:
 https://en.wikipedia.org/wiki/Light-weight_Linux_distribution -> sort by image size low-high
 
+- Some Systems I have tried:
+- Arch Linux 
+- Slax linux (very slow tho)
+- porteus xfce
+- tinycore
+- damn small linux
+- Slitaz linux
+- Lubuntu
+- Bodhi linux
+
 So with this you can have a linux/GNU with a GUI if you want, with 24/7 capability either with the hacker plan or a pinger such as uptimerobot
 
 If you get : qemu-system-x86_64: warning: TCG doesn't support requested feature: CPUID.01H:ECX.vmx [bit 5], dont worry about this, it just appears, nothing happens to system.
